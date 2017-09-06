@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/bijy/My Documents/bijy_practice'
+let g:netrw_dirhist_2='/home/bijy/Working Directory/self_manage_mw/new_self_manage/app'
+let g:netrw_dirhist_3='/home/bijy/self_manage_mw/new_self_manage/app'
+let g:netrw_dirhist_4='/home/bijy/Working Directory'
+let g:netrw_dirhist_5='/home/bijy/Working Directory/self_manage_mw/new_self_manage/global_function'
+let g:netrw_dirhist_6='/home/bijy/Working Directory/self_manage_mw/new_self_manage/static/data'
+let g:netrw_dirhist_7='/home/bijy/.vim'
+let g:netrw_dirhist_8='/home/bijy/My Documents'
+let g:netrw_dirhist_9='/home/bijy/self_manage_mw'
